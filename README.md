@@ -78,15 +78,6 @@ Automated ETL pipeline loading JSON and Excel banking data into a PostgreSQL sta
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedessam28&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedessam28&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 - ✅ Associate Data Engineer
